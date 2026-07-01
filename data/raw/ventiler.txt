@@ -1,0 +1,6 @@
+Køkken
+Soveværelse
+Badeværelse
+Stue
+Nordvendt værelse, nærmest
+Nordvendt værelse, fjernest
